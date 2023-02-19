@@ -1,6 +1,6 @@
 # Image-Processing-PIL2
 
-###Presentation:
+### Presentation:
 
 This activity aims to manipulate some possible transformations on color images, which are:
 
@@ -9,18 +9,18 @@ This activity aims to manipulate some possible transformations on color images, 
 
 Starting from an initial file 'joconde.jpg'
 
-###Code:
+### Code:
 
 The source code is available in the '/src' directory : 
 
 	- 'main.py' file containing the main function.
-###Usage:
+### Usage:
 
 	- The command on Windows: python ./main.py
-###Resources:
+### Resources:
 
 The resources used in the code are in a directory '/assets' in the main directory '/src'
 
-###Documentation:
+### Documentation:
 
-he documentation created with Doxygen is available in the '/doc' directory.
+the documentation created with Doxygen is available in the '/doc' directory.
